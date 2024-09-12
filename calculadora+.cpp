@@ -1,7 +1,7 @@
 #include <iostream>
 #include <chrono>
 
-#define l system("cls") // para Windows1
+#define l system("cls") // para Windows
 
 using namespace std;
 
